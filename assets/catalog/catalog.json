@@ -1,0 +1,74 @@
+{
+    "default-id": {
+        "displayName": " blue sapphire ring",
+        "filename": "filename.ext",
+        "infoTags": {
+            "stone" : "black",
+            "baseColor" : "purple"
+        },
+        "filterTags": {
+            "stone" : "black",
+            "baseColor" : "purple",
+            "type" : "gold",
+            "stone1" : "black",
+            "baseColor1" : "purple",
+            "type1" : "gold"
+        },
+        "category" : "default",
+        "quantity": 1
+    },
+    "ring-signet-1": {
+        "displayName": "Signet ring",
+        "filename": "ring-signet-1.png",
+        "infoTags": {
+            "Stone" : "red",
+            "Base Color" : "yellow"
+        },
+        "filterTags": {
+            "stone" : "embossed-oval",
+            "baseColor" : "yellow",
+            "type" : "gold",
+            "stone1" : "black",
+            "baseColor1" : "purple",
+            "type1" : "gold"
+        },
+        "category" : "rings",
+        "quantity": 1
+    },
+    "ring-sapphire-1": {
+        "displayName": "blue sapphire ring",
+        "filename": "ring-sapphire-1.png",
+        "infoTags": {
+            "stone" : "blue",
+            "baseColor" : "yellow"
+        },
+        "filterTags": {
+            "stone" : "oval",
+            "baseColor" : "green",
+            "type" : "silver",
+            "stone1" : "black",
+            "baseColor1" : "purple",
+            "type1" : "gold"
+        },
+        "category" : "rings",
+        "quantity": 1
+    },
+    "earrings-sunflower-1": {
+        "displayName": "sunflower",
+        "filename": "earrings-sunflower-1.png",
+        "infoTags": {
+            "stone" : "white",
+            "baseColor" : "silver"
+        },
+        "filterTags": {
+            "stone" : "black",
+            "baseColor" : "purple",
+            "type" : "platinum",
+            "stone1" : "black",
+            "baseColor1" : "purple",
+            "type1" : "gold"
+        },
+        "category" : "earrings",
+        "quantity": 1
+    }
+}

@@ -1,5 +1,4 @@
-{
-    "default-id": {
+{    "default-id": {
         "displayName": " blue sapphire ring",
         "filename": "filename.ext",
         "infoTags": {
@@ -17,54 +16,325 @@
         "category" : "default"
     },
     "ring-signet-1": {
-        "displayName": "Signet ring",
-        "filename": "ring-signet-1.png",
+        "displayName": "Diamond Signet",
+        "filename": "ring1.jpeg",
         "infoTags": {
-            "Stone" : "red",
-            "Base Color" : "yellow"
+            "stoneType": "diamond",
+            "color": "white",
+            "metalType": "rose gold",
+            "caratWeight": "2.5",
+            "cutStyle": "round"
         },
         "filterTags": {
-            "stone" : "embossed-oval",
-            "baseColor" : "yellow",
-            "type" : "gold",
-            "stone1" : "black",
-            "baseColor1" : "purple",
-            "type1" : "gold"
+            "stone": "diamond",
+            "baseColor": "white",
+            "metal": "rose gold",
+            "carat": "2.5",
+            "cut": "round"
         },
-        "category" : "rings"
+        "category": "rings"
     },
     "ring-sapphire-1": {
-        "displayName": "blue sapphire ring",
-        "filename": "ring-sapphire-1.png",
+        "displayName": "Pink Sapphire Elegance",
+        "filename": "ring2.jpeg",
         "infoTags": {
-            "stone" : "blue",
-            "baseColor" : "yellow"
+            "gemType": "pink sapphire",
+            "gemColor": "rose gold",
+            "metalType": "rose gold",
+            "caratWeight": "1.8",
+            "cutStyle": "oval"
         },
         "filterTags": {
-            "stone" : "oval",
-            "baseColor" : "green",
-            "type" : "silver",
-            "stone1" : "black",
-            "baseColor1" : "purple",
-            "type1" : "gold"
+            "stone": "pink sapphire",
+            "baseColor": "rose gold",
+            "metal": "rose gold",
+            "carat": "1.8",
+            "cut": "oval"
         },
-        "category" : "rings"
+        "category": "rings"
     },
-    "earrings-sunflower-1": {
-        "displayName": "sunflower",
-        "filename": "earrings-sunflower-1.png",
+    "ring-diamond-1": {
+        "displayName": "Classic Diamond Solitaire",
+        "filename": "ring3.jpeg",
         "infoTags": {
-            "stone" : "white",
-            "baseColor" : "silver"
+            "diamondType": "diamond",
+            "diamondColor": "white",
+            "metalType": "platinum",
+            "caratWeight": "1.0",
+            "cutStyle": "round"
         },
         "filterTags": {
-            "stone" : "black",
-            "baseColor" : "purple",
-            "type" : "platinum",
-            "stone1" : "black",
-            "baseColor1" : "purple",
-            "type1" : "gold"
+            "stone": "diamond",
+            "baseColor": "white",
+            "metal": "platinum",
+            "carat": "1.0",
+            "cut": "round"
         },
-        "category" : "earrings"
+        "category": "rings"
+    },
+    "ring-gemstone-1": {
+        "displayName": "Emerald Delight",
+        "filename": "ring4.jpeg",
+        "infoTags": {
+            "gemType": "emerald",
+            "gemColor": "green",
+            "metalType": "white gold",
+            "caratWeight": "1.2",
+            "cutStyle": "emerald"
+        },
+        "filterTags": {
+            "stone": "emerald",
+            "baseColor": "green",
+            "metal": "white gold",
+            "carat": "1.2",
+            "cut": "emerald"
+        },
+        "category": "rings"
+    },
+    "ring-vintage-1": {
+        "displayName": "Vintage Ruby Ring",
+        "filename": "ring5.jpeg",
+        "infoTags": {
+            "gemType": "ruby",
+            "gemColor": "red",
+            "metalType": "yellow gold",
+            "caratWeight": "1.5",
+            "cutStyle": "oval"
+        },
+        "filterTags": {
+            "stone": "ruby",
+            "baseColor": "red",
+            "metal": "yellow gold",
+            "carat": "1.5",
+            "cut": "oval"
+        },
+        "category": "rings"
+    },
+    "earrings-pearl-1": {
+        "displayName": "Pearl Drops",
+        "filename": "ear1.jpeg",
+        "infoTags": {
+            "pearlType": "pearl",
+            "pearlColor": "white",
+            "metalType": "silver",
+            "caratWeight": "0.5",
+            "style": "dangle"
+        },
+        "filterTags": {
+            "stone": "pearl",
+            "baseColor": "white",
+            "metal": "silver",
+            "carat": "0.5",
+            "cut": "round"
+        },
+        "category": "earrings"
+    },
+    "earrings-hoop-1": {
+        "displayName": "Diamond Hoops",
+        "filename": "ear2.jpeg",
+        "infoTags": {
+            "diamondType": "diamond",
+            "diamondColor": "white",
+            "metalType": "rose gold",
+            "caratWeight": "1.0",
+            "style": "hoop"
+        },
+        "filterTags": {
+            "stone": "diamond",
+            "baseColor": "white",
+            "metal": "rose gold",
+            "carat": "1.0",
+            "cut": "round"
+        },
+        "category": "earrings"
+    },
+    "earrings-stud-1": {
+        "displayName": "Sapphire Studs",
+        "filename": "ear3.jpeg",
+        "infoTags": {
+            "sapphireType": "sapphire",
+            "sapphireColor": "blue",
+            "metalType": "white gold",
+            "caratWeight": "0.8",
+            "style": "stud"
+        },
+        "filterTags": {
+            "stone": "sapphire",
+            "baseColor": "blue",
+            "metal": "white gold",
+            "carat": "0.8",
+            "cut": "round"
+        },
+        "category": "earrings"
+    },
+    "earrings-chandelier-1": {
+        "displayName": "Chandelier Elegance",
+        "filename": "ear4.jpeg",
+        "infoTags": {
+            "diamondType": "diamond",
+            "diamondColor": "white",
+            "metalType": "yellow gold",
+            "caratWeight": "1.2",
+            "style": "chandelier"
+        },
+        "filterTags": {
+            "stone": "diamond",
+            "baseColor": "white",
+            "metal": "yellow gold",
+            "carat": "1.2",
+            "cut": "pear"
+        },
+        "category": "earrings"
+    },
+    "bangles-gold-1": {
+        "displayName": "Golden Charm",
+        "filename": "ban1.jpeg",
+        "infoTags": {
+            "metalType": "gold",
+            "metalColor": "gold",
+            "caratWeight": "1.5",
+            "style": "solid"
+        },
+        "filterTags": {
+            "stone": "none",
+            "baseColor": "gold",
+            "metal": "gold",
+            "carat": "1.5",
+            "cut": "round"
+        },
+        "category": "bangles"
+    },
+    "bangles-diamond-1": {
+        "displayName": "Diamond Elegance",
+        "filename": "ban2.jpeg",
+        "infoTags": {
+            "diamondType": "diamond",
+            "diamondColor": "white",
+            "metalType": "platinum",
+            "caratWeight": "1.0",
+            "style": "stacked"
+        },
+        "filterTags": {
+            "stone": "diamond",
+            "baseColor": "white",
+            "metal": "platinum",
+            "carat": "1.0",
+            "cut": "round"
+        },
+        "category": "bangles"
+    },
+    "bangles-pearl-1": {
+        "displayName": "Pearl Bracelet",
+        "filename": "ban3.jpeg",
+        "infoTags": {
+            "pearlType": "pearl",
+            "pearlColor": "white",
+            "metalType": "silver",
+            "caratWeight": "0.8",
+            "style": "beaded"
+        },
+        "filterTags": {
+            "stone": "pearl",
+            "baseColor": "white",
+            "metal": "silver",
+            "carat": "0.8",
+            "cut": "round"
+        },
+        "category": "bangles"
+    },
+    "bangles-ruby-1": {
+        "displayName": "Ruby Radiance",
+        "filename": "ban4.jpeg",
+        "infoTags": {
+            "gemType": "ruby",
+            "gemColor": "red",
+            "metalType": "yellow gold",
+            "caratWeight": "1.2",
+            "style": "twisted"
+        },
+        "filterTags": {
+            "stone": "ruby",
+            "baseColor": "red",
+            "metal": "yellow gold",
+            "carat": "1.2",
+            "cut": "oval"
+        },
+        "category": "bangles"
+    },
+    "necklace-diamond-1": {
+        "displayName": "Diamond Cascade",
+        "filename": "necklace1.jpeg",
+        "infoTags": {
+            "diamondType": "diamond",
+            "diamondColor": "white",
+            "metalType": "rose gold",
+            "caratWeight": "2.0",
+            "style": "layered"
+        },
+        "filterTags": {
+            "stone": "diamond",
+            "baseColor": "white",
+            "metal": "rose gold",
+            "carat": "2.0",
+            "cut": "round"
+        },
+        "category": "necklace"
+    },
+    "necklace-pearl-1": {
+        "displayName": "Pearl Harmony",
+        "filename": "necklace2.jpeg",
+        "infoTags": {
+            "pearlType": "pearl",
+            "pearlColor": "white",
+            "metalType": "silver",
+            "caratWeight": "1.5",
+            "style": "strand"
+        },
+        "filterTags": {
+            "stone": "pearl",
+            "baseColor": "white",
+            "metal": "silver",
+            "carat": "1.5",
+            "cut": "round"
+        },
+        "category": "necklace"
+    },
+    "necklace-gemstone-1": {
+        "displayName": "Gemstone Cascade",
+        "filename": "necklace3.jpeg",
+        "infoTags": {
+            "gemType": "emerald",
+            "gemColor": "green",
+            "metalType": "white gold",
+            "caratWeight": "1.8",
+            "style": "pendant"
+        },
+        "filterTags": {
+            "stone": "emerald",
+            "baseColor": "green",
+            "metal": "white gold",
+            "carat": "1.8",
+            "cut": "emerald"
+        },
+        "category": "necklace"
+    },
+    "necklace-ruby-1": {
+        "displayName": "Ruby Radiance Necklace",
+        "filename": "necklace4.jpeg",
+        "infoTags": {
+            "gemType": "ruby",
+            "gemColor": "red",
+            "metalType": "yellow gold",
+            "caratWeight": "2.5",
+            "style": "statement"
+        },
+        "filterTags": {
+            "stone": "ruby",
+            "baseColor": "red",
+            "metal": "yellow gold",
+            "carat": "2.5",
+            "cut": "oval"
+        },
+        "category": "necklace"
     }
 }

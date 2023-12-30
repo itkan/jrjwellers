@@ -23,7 +23,8 @@
             "color": "white",
             "metalType": "rose gold",
             "caratWeight": "2.5",
-            "cutStyle": "round"
+            "cutStyle": "round",
+            "description": "A very long description.A very long description.A very long description.A very long description.A very long description.A very long description."
         },
         "filterTags": {
             "stone": "diamond",

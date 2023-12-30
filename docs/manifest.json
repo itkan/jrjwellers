@@ -1,6 +1,6 @@
 {
-  "short_name": "S.R.J.",
-  "name": "S R Jwellers",
+  "short_name": "J.R.J.",
+  "name": "J R Jwellers",
   "icons": [
     {
       "src": "favicon.ico",
@@ -8,8 +8,8 @@
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
-      "type": "image/png",
+      "src": "logo192.jpeg",
+      "type": "image/jpeg",
       "sizes": "192x192"
     },
     {

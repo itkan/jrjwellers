@@ -14,8 +14,7 @@
             "baseColor1" : "purple",
             "type1" : "gold"
         },
-        "category" : "default",
-        "quantity": 1
+        "category" : "default"
     },
     "ring-signet-1": {
         "displayName": "Signet ring",
@@ -32,8 +31,7 @@
             "baseColor1" : "purple",
             "type1" : "gold"
         },
-        "category" : "rings",
-        "quantity": 1
+        "category" : "rings"
     },
     "ring-sapphire-1": {
         "displayName": "blue sapphire ring",
@@ -50,8 +48,7 @@
             "baseColor1" : "purple",
             "type1" : "gold"
         },
-        "category" : "rings",
-        "quantity": 1
+        "category" : "rings"
     },
     "earrings-sunflower-1": {
         "displayName": "sunflower",
@@ -68,7 +65,6 @@
             "baseColor1" : "purple",
             "type1" : "gold"
         },
-        "category" : "earrings",
-        "quantity": 1
+        "category" : "earrings"
     }
 }
